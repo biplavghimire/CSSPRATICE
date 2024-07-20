@@ -5,8 +5,15 @@
 
 }
 
+
+.maincontainer{
+    height: auto;
+    width: auto;
+    background: #060505;
+}
 body {
-    width: 1513px;
+    overflow-x: hidden;
+    width:auto;
     height:auto;
     margin: 0;
     font-family: 'Arial', sans-serif;
@@ -451,10 +458,6 @@ button:hover {
    color: #524745; 
    text-align:left;
 }
-
-
-
-
 
 
 
